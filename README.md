@@ -8,4 +8,4 @@ Files include:
   
 - `classify_publications.py` which uses the saved model to classify the corpuses of other publications.
 
-- `Visualize Publications.ipynb` which visualizes the results of the models
+- `Visualize Publications.ipynb` which visualizes the results of the models.
