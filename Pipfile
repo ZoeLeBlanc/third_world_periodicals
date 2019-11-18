@@ -1,0 +1,29 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+notebook = "*"
+pandas = "*"
+altair = "*"
+seaborn = "*"
+numpy = "*"
+matplotlib = "*"
+scikit-learn = "*"
+spacy = "*"
+yellowbrick = "*"
+statsmodels = "*"
+nltk = "*"
+progress = "*"
+imbalanced-learn = "*"
+tornado = "==5.1.1"
+ptitprince = "*"
+vega = "==1.4.0"
+selenium = "*"
+
+[requires]
+python_version = "3.7"
